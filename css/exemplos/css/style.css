@@ -1,0 +1,17 @@
+/*
+Inserir comentário
+para chamar um ID, eu uso #
+para chamar uma classe, eu uso ponto (.) + nome_da_classe
+*/
+
+.red{
+    color: red;
+}
+
+#green{
+    color: green;
+}
+h6{
+    font-size: 22px;
+    color: red;
+}
