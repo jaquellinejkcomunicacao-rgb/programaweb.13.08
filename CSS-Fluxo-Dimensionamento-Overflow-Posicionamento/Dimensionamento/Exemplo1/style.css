@@ -1,0 +1,18 @@
+html{
+    font-size: 16px;
+}
+
+.pai{
+    font-size: 64px;
+    border: 2px solid black;
+
+}
+
+.testeEm{
+    font-size: 16em;
+    }
+
+.testeREM{
+    font-size: 4rem;
+    
+}

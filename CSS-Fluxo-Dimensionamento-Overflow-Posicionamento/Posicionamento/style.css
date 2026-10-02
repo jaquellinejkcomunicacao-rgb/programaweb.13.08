@@ -1,0 +1,61 @@
+body{
+    background-color: pink;
+    
+}
+
+header{
+    background-color: lightblue;
+    border: 1px solid;
+    padding: 5px;
+    color: white;
+    position: relative;
+    
+}
+
+.posicao{
+    background-color: yellow;
+    display: inline-block;
+    width: 30px;
+    position: relative;
+    left: 400px;
+    
+
+
+
+}
+.parag2{
+    border: 1px solid black;
+    display: inline-block;
+    position: sticky;
+    top: 0;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.whats{
+    border: 2px solid green;
+    background-color: lightgreen;
+    color: green;
+    font-weight: 900;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
